@@ -1,3 +1,9 @@
+# dataset and environment 
+
+.dataset
+.env
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
